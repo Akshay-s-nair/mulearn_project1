@@ -1,0 +1,114 @@
+img{
+    width: 80px;
+}
+nav{
+    background-color: rgb(192, 227, 227);
+}
+
+.nav-link{
+    color: rgb(135, 136, 136);
+}
+.pygrammers{
+padding: 45px;
+padding-bottom: 60px;
+
+}
+
+.pygrammers>h2,p{
+    text-align: center;
+    padding: 10px;
+}
+
+.button{ 
+    width:100px;margin:0 50%;position:relative;left:-50px;
+    background-color: rgb(192, 227, 227);
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    transition-duration: 0.4s;
+}
+.button {
+    background-color: white; 
+    color: #008CBA;
+    border: 2px solid #008CBA;
+  }
+  
+  .button:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+
+form{
+    margin-top: 40px;
+    padding: 13px;
+    margin-bottom: 30px;
+    width: 35%;
+    min-height: 620px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(198, 198, 198);
+    margin: 0 auto; 
+    /* above code makes the form center aligned */
+}
+h2{
+    text-align: center;
+    color: black;
+}
+label{
+    padding-top: 24px;
+    padding-bottom: 1px;
+    color: rgb(137, 137, 137);
+}
+input{
+    width: 100%;
+    border-radius: 0%;
+    border-style:groove;
+    border-color: antiquewhite;
+
+}
+.name{
+    text-align:center;
+    bottom:0;
+    width:100%;
+    left:10%;
+}
+#txt{
+    padding-left:10px;
+    padding-right:10px;
+    padding-top: 30px;
+    color: rgb(145, 143, 143);
+    font-size: small;
+}
+#pyg{
+    margin-top: 20px;
+    padding-top: 8px;
+    margin-bottom: 20px;
+}
+
+#submit{
+    width: 60%;
+    margin-left: 20%;
+    
+}
+
+h1{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.spc{
+    padding-bottom: 20px;
+}
+
+.footer{
+    background-color: rgb(192, 227, 227);
+    padding: 20px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer>img{
+    width: 220px;
+}
